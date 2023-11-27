@@ -1,4 +1,6 @@
 # Happiness Logo!
+<img src="image/happy1.gif" width="150" height="130">
+
 ## Campionati Nazionali Siemens 2024
 
 ### Premessa
