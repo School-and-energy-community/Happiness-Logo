@@ -11,11 +11,18 @@ Volevamo divertirci e far divertire e per questo abbiamo scelto di collaborare c
 Il presente progetto ha come finalità il movimento a distanza, azionato mediante smartphone e/o tablet, della bocca del dinosauro di un carro di prima categoria del carnevale di Viareggio, attraverso l'uso di un **Logo! Siemens** collegato ad una rete locale WiFi. 
 L'azionamento ha lo scopo di permettere al pubblico presente, specialmente a quello dei piu' piccoli, di poter interagire con la maschera.
 
-### Materiali utilizzati
-Il sistema di controllo è affidato ad un **PLC Logo!** 
-<img src="image/logo.png" width="130" height="110">
+### Altre finalità di carattere multidisciplinare
+Oltre alle discipine tecniche, il progetto coinvolge anche discipline di tipo umanistico. In particolare (in attesa del contributo Prof.ssa Lencioni su diritto alla felicità e letture Asimov...)
 
-collegato ad un router WiFi
+### Materiali principali utilizzati per la regolazione ed il controllo
+Il sistema di controllo è affidato ad un **PLC Logo!**  <img src="image/logo.png" width="130" height="110">
+
+collegato ad un router WiFi <img src="image/router.png" width="130" height="110">
+
+in modo da realizzare una rete locale protetta su cui connette il tablet per l'azionamento a distanza
+
+### Materiali principali utilizzati per l'azionamento
+Per l'azionamento è stato utilizzato un sistema pneumatico del tipo .... (elenco materiale che deve fornire il carrista Bertozzi) 
 
 ### Schema di progetto
 Under Construction
