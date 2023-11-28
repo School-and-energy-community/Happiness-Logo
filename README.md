@@ -12,7 +12,10 @@ Il presente progetto ha come finalità il movimento a distanza, azionato mediant
 L'azionamento ha lo scopo di permettere al pubblico presente, specialmente a quello dei piu' piccoli, di poter interagire con la maschera.
 
 ### Materiali utilizzati
+Il sistema di controllo è affidato ad un **PLC Logo!** 
+<img src="image/logo.png" width="130" height="110">
 
+collegato ad un router WiFi
 
 ### Schema di progetto
 Under Construction
