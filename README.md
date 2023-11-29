@@ -12,17 +12,17 @@ Il presente progetto ha come finalità il movimento a distanza, azionato mediant
 L'azionamento ha lo scopo di permettere al pubblico presente, specialmente a quello dei piu' piccoli, di poter interagire con la maschera.
 
 ### Altre finalità di carattere multidisciplinare
-Oltre alle discipine tecniche, il progetto coinvolge anche discipline di tipo umanistico. In particolare (in attesa del contributo Prof.ssa Lencioni su diritto alla felicità e letture Asimov...)
+Oltre alle discipine tecniche, il progetto coinvolge anche discipline di tipo umanistico. In particolare (in attesa del contributo Prof.ssa Lencioni su diritto alla felicità e letture Asimov ?...)
 
 ### Materiali principali utilizzati per la regolazione ed il controllo
 Il sistema di controllo è affidato ad un **PLC Logo!**  <img src="image/logo.png" width="130" height="110">
 
 collegato ad un router WiFi <img src="image/router.png" width="130" height="110">
 
-in modo da realizzare una rete locale protetta su cui connette il tablet per l'azionamento a distanza
+in modo da realizzare una rete locale protetta su cui connettere il tablet per l'azionamento a distanza
 
 ### Materiali principali utilizzati per l'azionamento
-Per l'azionamento è stato utilizzato un sistema pneumatico del tipo .... (elenco materiale che deve fornire il carrista Bertozzi) 
+Per l'azionamento è stato utilizzato un sistema pneumatico del tipo .... (elenco materiale fornito dal carrista Bertozzi) 
 
 ### Schema di progetto
 Under Construction
