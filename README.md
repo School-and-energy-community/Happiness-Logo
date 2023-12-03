@@ -1,4 +1,4 @@
-# Happiness S71200
+# Happiness S71200!
 <img src="image/happy1.gif" width="130" height="110">
 
 ## Campionati Nazionali Siemens 2024
