@@ -14,6 +14,9 @@ L'azionamento ha lo scopo di permettere al pubblico presente, specialmente a que
 ### Altre finalità di carattere multidisciplinare
 Oltre alle discipine tecniche, il progetto coinvolge anche discipline di tipo umanistico. In particolare (in attesa del contributo Prof.ssa Lencioni su diritto alla felicità e letture Asimov ?...)
 
+### Breve descrizione del contesto di progetto
+Il Carnevale di Viareggio 
+
 ### Materiali principali utilizzati per la regolazione ed il controllo
 Il sistema di controllo è affidato ad un **PLC S71200**   <img src="image/S71200.png" width="130" height="110">
 
