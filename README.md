@@ -17,6 +17,8 @@ Oltre alle discipine tecniche, il progetto coinvolge anche discipline di tipo um
 ### Breve descrizione del contesto di progetto
 Tra i carri di prima categoria, al [Carnevale di Viareggio](https://viareggio.ilcarnevale.com/la-storia/storia-e-tradizione/) edizione 2024, il carro di Luca Bertozzi è tra i piu' imponenti avendo una lunghezza che supera i 14 metri ed una altezza di oltre 5 metri. Da un punto di vista tecnico il carro, alimentato attraverso un gruppo elettrogeno, costituisce un sistema elettrico IT mobile a servizio delle luci, della musica e dell'impianto pneumatico ad 8 bar necessario per azionare i movimenti delle maschere di cartapesta del complesso scenografico.  Il carro si muove su 6 ruote ed ha un peso stimato intorno alle x tonnellate.
 
+E' tradizione che i movimenti delle maschere siano sempre stati affidati all'ingegno ed alla forza umana sfruttando sostanzialmente il principio della leva con l'ausilio di contrappesi e di tiranti elastici realizzati con camere d'aria di pneumatici di camion. Ma ci sono anche altre ragioni pratiche che tendono ad escludere l'impiego di sistemi automatici. Un carro imponente da x tonnellate sollecitato da decine di persone che ci ballano sopra e che si muove sui viali lungomare, esposto al vento ed a leggere incurvature della strada 
+
 ### Materiali principali utilizzati per la regolazione ed il controllo
 Il sistema di controllo è affidato ad un **PLC S71200**   <img src="image/S71200.png" width="130" height="110">
 
