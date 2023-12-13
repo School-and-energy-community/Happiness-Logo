@@ -15,7 +15,8 @@ L'azionamento ha lo scopo di permettere al pubblico presente, specialmente a que
 Oltre alle discipine tecniche, il progetto coinvolge anche discipline di tipo umanistico. In particolare (in attesa del contributo Prof.ssa Lencioni su diritto alla felicità e letture Asimov ?...)
 
 ### Breve descrizione del contesto di progetto
-Tra i carri di prima categoria, al [Carnevale di Viareggio](https://viareggio.ilcarnevale.com/la-storia/storia-e-tradizione/) edizione 2024, il carro di Luca Bertozzi è tra i piu' imponenti avendo una lunghezza che supera i 14 metri ed una altezza di oltre 5 metri. Da un punto di vista tecnico il carro, alimentato attraverso un gruppo elettrogeno, costituisce un sistema elettrico IT mobile che alimenta luci e musica oltre all'impianto pneumatico ad 8 bar necessario per azionare i movimenti delle maschere di cartapesta del complesso scenografico.  
+Tra i carri di prima categoria, al [Carnevale di Viareggio](https://viareggio.ilcarnevale.com/la-storia/storia-e-tradizione/) edizione 2024, il carro di Luca Bertozzi è tra i piu' imponenti avendo una lunghezza che supera i 14 metri ed una altezza di oltre 5 metri. Da un punto di vista tecnico il carro, alimentato attraverso un gruppo elettrogeno, costituisce un sistema elettrico IT mobile che alimenta luci e musica oltre all'impianto pneumatico ad 8 bar necessario per azionare i movimenti delle maschere di cartapesta del complesso scenografico. 
+Il carro si muove su 6 ruote ed ha un peso stimato intorno alle x tonnellate.
 
 ### Materiali principali utilizzati per la regolazione ed il controllo
 Il sistema di controllo è affidato ad un **PLC S71200**   <img src="image/S71200.png" width="130" height="110">
