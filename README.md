@@ -9,6 +9,7 @@
     <audio controls autoplay loop>
         <source src="sound/Girasol.mp3" type="audio/mp3">
     </audio>
+    <p></p>
 Se vuoi accompagnare la lettura con la musica premi Play 
 </body>
 </html>
