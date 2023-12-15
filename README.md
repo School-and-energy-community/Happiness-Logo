@@ -2,13 +2,14 @@
 <img src="image/happy1.gif" width="130" height="110">
 
 “Quando avevo cinque anni, mia madre mi ripeteva sempre che la felicità è la chiave della vita. Quando andai a scuola mi domandarono come volessi essere da grande. Io scrissi: felice. Mi dissero che non avevo capito il compito, e io dissi loro che non avevano capito la vita.”    
-John Lennon
+*John Lennon*
 
 
 ## Campionati Nazionali Siemens 2024
 
 ### Premessa
-Con questo progetto gli studenti del Galilei Artiglio hanno voluto dare un piccolo contributo al diritto alla felicità di tutti, in particolare a quella dei piu' piccoli.
+Può un PLC Siemens regalare un'emozione, un momento di felicità ?
+Gli studenti del Galilei Artiglio hanno voluto provare a dare una risposta a questa domanda cercando di offrire un piccolo contributo al diritto alla felicità di tutti, in particolare a quella dei piu' piccoli.
 Volevamo divertirci e far divertire e per questo abbiamo scelto di collaborare con Luca Bertozzi, un giovane carrista del Carnevale di Viareggio. Il suo carro quest'anno porta in scena la tristezza del mondo, la "pornografia del dolore" spettacolarizzata attraverso i media e qui raffigurata da un enorme dinosauro che incarna tutta l'aggressività della nostra società assuefatta dal consumismo e sempre più infelice, in cerca di sensazionalità e visibilità, a scapito dei valori umani. Attraverso questa imponente opera vogliamo contribuire in qualche modo a costruire un antidoto, un momento di felicità, di magia da regalare ai bambini: quale modo migliore se non quello di consentirgli di chiudere la bocca del mostro attraverso un semplice click, facendolo zittire quasi ad esorcizzare la paura e trasformarla in felicità e stupore ?
 
 ### Finalità
