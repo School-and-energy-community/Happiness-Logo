@@ -35,6 +35,7 @@ Volevamo divertirci e far divertire e per questo abbiamo scelto di collaborare c
 
     figcaption {
       margin-left: 20px;
+       font-size: 12px;
     }
   </style>
 </head>
