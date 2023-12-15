@@ -9,7 +9,6 @@
 <body>
     <audio controls autoplay loop>
         <source src="sound/Girasol.mp3" type="audio/mp3">
-        Il tuo browser non supporta l'elemento audio.
     </audio>
 
 </body>
