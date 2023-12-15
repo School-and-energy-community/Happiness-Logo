@@ -22,12 +22,11 @@ Può un PLC Siemens regalare un'emozione, un momento di felicità ?
 Gli studenti del Galilei Artiglio hanno voluto provare a dare una risposta a questa domanda con un piccolo contributo al diritto alla felicità di tutti, in particolare a quella dei piu' piccoli.
 
 Volevamo divertirci e far divertire e per questo abbiamo scelto di collaborare con Luca Bertozzi, un giovane carrista del Carnevale di Viareggio. 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Studenti del Galilei insieme ad una scolaresca durante la visita nell'hangar del carro</title>
+  <title>Studenti del Galilei insieme ad una scolaresca durante la visita nell'hangar del carro "Più denti!"</title>
   <style>
     figure {
       display: flex;
@@ -35,7 +34,7 @@ Volevamo divertirci e far divertire e per questo abbiamo scelto di collaborare c
     }
 
     figcaption {
-      margin-left: 20px; /* Regola questa proprietà in base alle tue esigenze di spaziatura */
+      margin-left: 20px;
     }
   </style>
 </head>
