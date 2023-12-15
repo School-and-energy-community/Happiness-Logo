@@ -26,7 +26,7 @@ Volevamo divertirci e far divertire e per questo abbiamo scelto di collaborare c
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Studenti del Galilei insieme ad una scolaresca durante la visita nell'hangar del carro Più denti!</title>
+  <title>Happy boys</title>
   <style>
     figure {
       display: flex;
@@ -42,7 +42,7 @@ Volevamo divertirci e far divertire e per questo abbiamo scelto di collaborare c
 <body>
   <figure>
     <img src="image/F10.jpg" width="270" height="150" alt="Studenti">
-    <figcaption>Studenti del Galilei insieme ad una scolaresca nell'hangar del carro</figcaption>
+    <figcaption>Studenti del Galilei insieme ad una scolaresca nell'hangar del carro "Più denti!"</figcaption>
   </figure>
 </body>
 </html>
