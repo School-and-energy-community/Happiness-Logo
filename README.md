@@ -26,7 +26,7 @@ Volevamo divertirci e far divertire e per questo abbiamo scelto di collaborare c
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Studenti del Galilei insieme ad una scolaresca durante la visita nell'hangar del carro "Più denti!"</title>
+  <title>Studenti del Galilei insieme ad una scolaresca durante la visita nell'hangar del carro Più denti!</title>
   <style>
     figure {
       display: flex;
