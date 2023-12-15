@@ -41,7 +41,7 @@ Volevamo divertirci e far divertire e per questo abbiamo scelto di collaborare c
 </head>
 <body>
   <figure>
-    <img src="image/F10.jpg" width="270" height="150" alt="Descrizione dell'immagine">
+    <img src="image/F10.jpg" width="270" height="150" alt="Studenti">
     <figcaption>Studenti del Galilei insieme ad una scolaresca nell'hangar del carro</figcaption>
   </figure>
 </body>
