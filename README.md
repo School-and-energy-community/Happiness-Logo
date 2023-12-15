@@ -1,6 +1,9 @@
 # Happiness S71200!
 <img src="image/happy1.gif" width="130" height="110">
 
+“Quando avevo cinque anni, mia madre mi ripeteva sempre che la felicità è la chiave della vita. Quando andai a scuola mi domandarono come volessi essere da grande. Io scrissi: felice. Mi dissero che non avevo capito il compito, e io dissi loro che non avevano capito la vita.”    John Lennon
+
+
 ## Campionati Nazionali Siemens 2024
 
 ### Premessa
