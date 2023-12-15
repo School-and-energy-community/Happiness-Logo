@@ -20,12 +20,33 @@ Se vuoi accompagnare la lettura con la musica premi Play
 Può un PLC Siemens regalare un'emozione, un momento di felicità ?
 
 Gli studenti del Galilei Artiglio hanno voluto provare a dare una risposta a questa domanda con un piccolo contributo al diritto alla felicità di tutti, in particolare a quella dei piu' piccoli.
-<html lang="en">
-<body>
-<img src="image/F10.jpg" width="270" height="150"> Studenti del Galilei insieme ad una scolaresca nell'hangar del carro</body>
-</html>
 
-Volevamo divertirci e far divertire e per questo abbiamo scelto di collaborare con Luca Bertozzi, un giovane carrista del Carnevale di Viareggio. Il suo carro quest'anno porta in scena la tristezza del mondo, la "pornografia del dolore" spettacolarizzata dai media e qui raffigurata da un enorme dinosauro che incarna tutta l'aggressività della nostra società assuefatta dal consumismo e sempre più infelice, in cerca di sensazionalità e visibilità, a scapito dei valori umani. Attraverso questa imponente opera vogliamo contribuire in qualche modo a costruire un antidoto, un momento di felicità, di magia da regalare ai bambini: quale modo migliore se non quello di consentirgli di chiudere la bocca del mostro attraverso un semplice click, facendolo zittire quasi ad esorcizzare la paura e trasformarla in felicità e stupore ?
+Volevamo divertirci e far divertire e per questo abbiamo scelto di collaborare con Luca Bertozzi, un giovane carrista del Carnevale di Viareggio. 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Studenti del Galilei insieme ad una scolaresca durante la visita nell'hangar del carro</title>
+  <style>
+    figure {
+      display: flex;
+      align-items: center;
+    }
+
+    figcaption {
+      margin-left: 20px; /* Regola questa proprietà in base alle tue esigenze di spaziatura */
+    }
+  </style>
+</head>
+<body>
+  <figure>
+    <img src="image/F10.jpg" width="270" height="150" alt="Descrizione dell'immagine">
+    <figcaption>Studenti del Galilei insieme ad una scolaresca nell'hangar del carro</figcaption>
+  </figure>
+</body>
+</html>
+Il suo carro quest'anno porta in scena la tristezza del mondo, la "pornografia del dolore" spettacolarizzata dai media e qui raffigurata da un enorme dinosauro che incarna tutta l'aggressività della nostra società assuefatta dal consumismo e sempre più infelice, in cerca di sensazionalità e visibilità, a scapito dei valori umani. Attraverso questa imponente opera vogliamo contribuire in qualche modo a costruire un antidoto, un momento di felicità, di magia da regalare ai bambini: quale modo migliore se non quello di consentirgli di chiudere la bocca del mostro attraverso un semplice click, facendolo zittire quasi ad esorcizzare la paura e trasformarla in felicità e stupore ?
 
 ### Finalità
 Il presente progetto ha come finalità il movimento a distanza, azionato mediante smartphone e/o tablet, della bocca del dinosauro di un carro di prima categoria del carnevale di Viareggio, attraverso l'uso di un **S71200 Siemens** collegato ad una rete locale WiFi. 
