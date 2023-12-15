@@ -26,7 +26,7 @@ Tra i carri di prima categoria, al [Carnevale di Viareggio](https://viareggio.il
 
 E' tradizione che i movimenti delle maschere siano sempre stati affidati all'ingegno ed alla forza umana sfruttando sostanzialmente il principio della leva con l'ausilio di contrappesi e di tiranti elastici realizzati con camere d'aria di pneumatici di camion. Ma ci sono anche altre ragioni pratiche che tendono ad escludere l'impiego di sistemi automatici. Un carro imponente come questo sollecitato da decine di persone che ci ballano sopra e che si muove sui viali a mare esposto al vento ed a leggere incurvature della strada, può avere modifiche di assetto importanti a scapito delle tolleranze di cerniere, cuscinetti ecc. con il risultato che i movimenti previsti in fase di costruzione vengano completamente scombinati. In situazioni come queste il movimento manuale sopperisce ad intoppi legati ad una serie di variabili a volte difficili da prevedere.
 
-La sfida quindi che il Galilei Artiglio raccoglie è quella di utilizzare un PLC S71200 che attraverso il proprio Web Server è in grado di essere "riconfigurato" nelle variabili di controllo in tempo reale mediante un tablet durante il corso mascherato.
+La sfida tecnica quindi che il Galilei Artiglio raccoglie è quella di utilizzare un PLC S71200 che attraverso il proprio Web Server è in grado di essere "riconfigurato" nelle variabili di controllo in tempo reale mediante un tablet durante il corso mascherato. Oltre ai controlli "virtuali" sono previsti anche ingressi fisici per la necessaria ridondanza di sicurezza del carro. 
 
 
 
