@@ -4,13 +4,12 @@
 “Quando avevo cinque anni, mia madre mi ripeteva sempre che la felicità è la chiave della vita. Quando andai a scuola mi domandarono come volessi essere da grande. Io scrissi: felice. Mi dissero che non avevo capito il compito, e io dissi loro che non avevano capito la vita.”    
 *John Lennon*
 
-<!DOCTYPE html>
 <html lang="en">
 <body>
     <audio controls autoplay loop>
         <source src="sound/Girasol.mp3" type="audio/mp3">
     </audio>
-
+Se vuoi accompagnare la lettura con la musica premi Play 
 </body>
 </html>
 
