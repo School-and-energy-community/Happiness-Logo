@@ -71,7 +71,7 @@ La sfida tecnica quindi che il Galilei Artiglio raccoglie è quella di utilizzar
 ### Materiali principali utilizzati per la regolazione ed il controllo
 Il sistema di controllo è affidato ad un **PLC S71200**   <img src="image/S71200.png" width="130" height="110"> 
 
-completo di blocco di espansione **SM1222** <img src="image/sm1222.png" width="100" height="110"> per il controllo degli azionamenti pneumatici.
+completo di blocco di espansione **SM1222** <img src="image/sm1222.png" width="90" height="110"> per il controllo delle elettrovavolvole dei pistoni pneumatici.
 
 Il PLC è infine collegato ad un router WiFi  <img src="image/router.png" width="130" height="110">
 
