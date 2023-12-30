@@ -53,7 +53,7 @@ Attraverso questa imponente opera vogliamo contribuire in qualche modo a costrui
 <img src="image/dinos.gif" width="130" height="110">
 
 ### Finalità
-Il presente progetto ha come finalità il movimento a distanza, azionato mediante smartphone e/o tablet, della bocca del dinosauro di un carro di prima categoria del carnevale di Viareggio, attraverso l'uso di un **S71200 Siemens** collegato ad una rete locale WiFi. 
+Il presente progetto ha come finalità il movimento a distanza, azionato mediante smartphone e/o tablet, della testa del dinosauro di un carro di prima categoria del carnevale di Viareggio, attraverso l'uso di un **S71200 Siemens** collegato ad una rete locale WiFi. Oltre al dinosauro sono controllati a distanza anche i movimenti degli pterodattili (ali, testa e becco).
 L'azionamento ha lo scopo di permettere al pubblico presente, specialmente a quello dei piu' piccoli, di poter interagire con la maschera.
 
 ### Altre finalità di carattere multidisciplinare
@@ -69,11 +69,13 @@ La sfida tecnica quindi che il Galilei Artiglio raccoglie è quella di utilizzar
 
 
 ### Materiali principali utilizzati per la regolazione ed il controllo
-Il sistema di controllo è affidato ad un **PLC S71200**   <img src="image/S71200.png" width="130" height="110">
+Il sistema di controllo è affidato ad un **PLC S71200**   <img src="image/S71200.png" width="130" height="110"> 
 
-collegato ad un router WiFi  <img src="image/router.png" width="130" height="110">
+completo di blocco di espansione **SM1222** <img src="image/sm1222.png" width="130" height="110"> per il controllo degli azionamenti pneumatici.
 
-in modo da realizzare una rete locale protetta su cui connettere il tablet per l'azionamento a distanza
+Il PLC è infine collegato ad un router WiFi  <img src="image/router.png" width="130" height="110">
+
+in modo da realizzare una rete locale protetta su cui connettere il tablet per l'azionamento a distanza delle maschere.
 
 ### Materiali principali utilizzati per l'azionamento
 Per l'azionamento è stato utilizzato un sistema pneumatico del tipo .... (elenco materiale fornito dal carrista Bertozzi) 
