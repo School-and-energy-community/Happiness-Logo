@@ -49,6 +49,8 @@ Volevamo divertirci e far divertire e per questo abbiamo scelto di collaborare c
 
 Il suo carro quest'anno porta in scena la tristezza del mondo, la "pornografia del dolore" spettacolarizzata dai media e qui raffigurata da un enorme dinosauro che incarna tutta l'aggressività della nostra società assuefatta dal consumismo e sempre più infelice, in cerca di sensazionalità e visibilità, a scapito dei valori umani. Attraverso questa imponente opera vogliamo contribuire in qualche modo a costruire un antidoto, un momento di felicità, di magia da regalare ai bambini: quale modo migliore se non quello di consentirgli di chiudere la bocca del mostro attraverso un semplice click, facendolo zittire quasi ad esorcizzare la paura e trasformarla in felicità e stupore ?
 
+<img src="image/dinos.gif" width="130" height="110">
+
 ### Finalità
 Il presente progetto ha come finalità il movimento a distanza, azionato mediante smartphone e/o tablet, della bocca del dinosauro di un carro di prima categoria del carnevale di Viareggio, attraverso l'uso di un **S71200 Siemens** collegato ad una rete locale WiFi. 
 L'azionamento ha lo scopo di permettere al pubblico presente, specialmente a quello dei piu' piccoli, di poter interagire con la maschera.
