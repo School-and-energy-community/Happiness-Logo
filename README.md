@@ -78,7 +78,7 @@ in modo da realizzare una rete locale protetta su cui connettere il tablet per l
 ### Video del progetto Happiness
 Video di presentazione del progetto al Campionato Nazionale Siemens 2024
 
-<iframe width="640" height="320" src="https://youtube.com/embed/oKHkwgb3gDY)" ></iframe>
+<iframe width="640" height="320" src="https://youtube.com/embed/oKHkwgb3gDY" ></iframe>
 
 ### Schema di progetto
 Under Construction
