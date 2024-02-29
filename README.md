@@ -75,8 +75,10 @@ Il PLC è infine collegato ad un router WiFi  <img src="image/router.png" width=
 
 in modo da realizzare una rete locale protetta su cui connettere il tablet per l'azionamento a distanza delle maschere.
 
-### Video del progetto
-Per l'azionamento è stato utilizzato un sistema pneumatico del tipo .... (elenco materiale fornito dal carrista Bertozzi) 
+### Video del progetto Happiness
+Video di presentazione del progetto al Campionato Nazionale Siemens 2024
+
+<iframe width="640" height="320" src="https://youtube.com/embed/oKHkwgb3gDY)" ></iframe>
 
 ### Schema di progetto
 Under Construction
