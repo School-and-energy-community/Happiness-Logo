@@ -89,7 +89,7 @@ Un particolare ringraziamento va a tutti i bambini ed i genitori che hanno inter
 
 Per tutti, ma proprio tutti tutti, va il nostro augurio 
 
-<img src="image/be-happy.gif" width="130" height="110">
+<img src="image/be-happy.gif" width="150" height="130">
 
 
 
