@@ -12,7 +12,7 @@
     <p></p>
 </body>
 </html>
-Se vuoi migliorare l'esperienza che il progetto Happines intende comunicare premi Play 
+Se vuoi migliorare l'esperienza che il progetto Happiness intende comunicare premi Play 
 
 ## Campionati Nazionali Siemens 2024
 
