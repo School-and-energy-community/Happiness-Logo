@@ -80,8 +80,8 @@ Video di presentazione del progetto al Campionato Nazionale Siemens 2024
 
 <iframe width="640" height="320" src="https://youtube.com/embed/oKHkwgb3gDY" ></iframe>
 
-### Schema di progetto
-Under Construction
+### Dicono di noi
+[Articolo di giornale sul quotidiano "La Nazione"](https://www.lanazione.it/viareggio/cronaca/tyrannosaurus-web-techno-automatismi-sul-carro-di-bertozzi-7ee88b29) 
 
 
 
