@@ -72,7 +72,7 @@ Il PLC è infine collegato ad un router WiFi  <img src="image/router.png" width=
 
 in modo da realizzare una rete locale protetta su cui connettere il tablet per l'azionamento a distanza delle maschere.
 
-La realizzazione di una rete locale WiFi ad hoc per il PLC S7 1200 è condizione essenziale per il successo dell'impresa. Infatti durante il corso, a causa dell'alto numero delle presenze o per altri motivi di sicurezza pubblica, la connessione alla rete tramite le celle telefoniche non è garantita ovunque ed in ogni momento. Si è optato quindi per un router WiFi piccolo e potente in grado di superare la schermatura della struttura portante in ferro del carro per poter dialogare con il PLC dall'esterno a diversi metri di distanza dalla maschera così da far vivere al meglio l'esperienza al pubblico.
+La realizzazione di una rete locale WiFi ad hoc per il PLC S7 1200 è condizione essenziale per il successo dell'impresa. Infatti durante il corso, a causa dell'alto numero delle presenze o per altri motivi di sicurezza pubblica, la connessione alla rete tramite le celle telefoniche non è garantita ovunque ed in ogni momento. Si è optato quindi per un router WiFi piccolo e potente in grado di superare la schermatura della struttura portante in ferro del carro. Questo permette di poter dialogare con il PLC dall'esterno a diversi metri di distanza dalla maschera, così da far vivere al meglio l'esperienza al pubblico.
 
 ### Video del progetto Happiness
 Video di presentazione del progetto al Campionato Nazionale Siemens 2024
