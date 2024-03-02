@@ -53,7 +53,7 @@ Attraverso questa imponente opera vogliamo contribuire in qualche modo a costrui
 <img src="image/dinos.gif" width="130" height="110">
 
 ### Finalità
-Il presente progetto ha come finalità il movimento a distanza, azionato mediante smartphone e/o tablet, di parti del dinosauro di un carro di prima categoria del carnevale di Viareggio, attraverso l'uso di un **S71200 Siemens** collegato ad una rete locale WiFi. 
+Il presente progetto ha come finalità il movimento a distanza, azionato mediante smartphone e/o tablet, di parti del dinosauro di un carro di prima categoria del carnevale di Viareggio, attraverso l'uso di un **PLC S71200 Siemens** collegato ad una rete locale WiFi. 
 L'azionamento ha lo scopo di permettere al pubblico presente, specialmente a quello dei piu' piccoli, di poter interagire con la maschera.
 
 ### Breve descrizione del contesto di progetto
