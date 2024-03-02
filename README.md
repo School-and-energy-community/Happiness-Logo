@@ -87,7 +87,9 @@ Gli studenti dell'IIS Galilei-Artiglio impegnati nel progetto ringraziano Luca B
 
 Un particolare ringraziamento va a tutti i bambini ed i genitori che hanno interagito con la maschera, in particolare a quelli che che per motivi di tempo non sono stati inseriti nel video di presentazione. 
 
-Per tutti, ma proprio tutti tutti, va il nostro augurio  <img src="image/be-happy.gif" width="200" height="180">
+Per tutti, ma proprio tutti tutti, va il nostro augurio  
+
+                <img src="image/be-happy.gif" width="200" height="180">
 
 
 
