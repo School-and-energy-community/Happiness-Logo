@@ -79,6 +79,7 @@ La realizzazione di una rete locale WiFi ad hoc per il PLC S7 1200 è condizione
 Il programma prevede anche l'utilizzo di un **HMI Siemens**
 
 <img src="image/rete.png" width="330" height="110">
+
 che per motivi di budget non è stato montato sulla console del carro. Al fine di garantire la sicurezza dei movimenti, la precedenza funzionale del programma segue la sequenza di controllo: manuale -> HMI -> Smartphone/Tablet
 
 ### Video del progetto Happiness
