@@ -19,7 +19,7 @@ Se vuoi migliorare l'esperienza che il progetto Happiness intende comunicare pre
 ### Premessa
 Può un PLC Siemens regalare un'emozione, un momento di felicità ?
 
-Gli studenti del Galilei Artiglio hanno voluto provare a dare una risposta a questa domanda con un piccolo contributo al diritto alla felicità di tutti, in particolare a quella dei piu' piccoli.
+Gli studenti del Galilei Artiglio hanno voluto provare a dare una risposta a questa domanda con un piccolo contributo al diritto alla felicità, alla pace di tutti, in particolare a quella dei piu' piccoli.
 
 Volevamo divertirci e far divertire e per questo abbiamo scelto di collaborare con Luca Bertozzi, un giovane carrista del Carnevale di Viareggio, titolare dell'impresa artigiana [Luca Bertozzi Scenografie](https://www.lucabertozziscenografie.com/) curatrice di vari allestimenti anche di carattere internazionale tra cui quello riguardante il logo dei Rolling Stones al Summer Festival di Lucca. 
 <html lang="en">
