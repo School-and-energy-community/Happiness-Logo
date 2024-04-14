@@ -49,7 +49,7 @@ Volevamo divertirci e far divertire e per questo abbiamo scelto di collaborare c
 
 Il suo carro quest'anno porta in scena la tristezza del mondo, la "pornografia del dolore" spettacolarizzata dai media e qui raffigurata da un enorme dinosauro che incarna tutta l'aggressività della nostra società, assuefatta dal consumismo ed immersa in conflitti globali che producono un crescente senso di infelicità, mentre cerca costantemente sensazionalismo e visibilità a discapito dei valori umani. 
 
-Attraverso questa imponente opera vogliamo contribuire in qualche modo a costruire un antidoto, un momento di felicità, di magia da regalare ai bambini: quale modo migliore se non quello di chiudere la bocca del mostro attraverso un semplice click, facendolo zittire quasi ad esorcizzare la paura e trasformarla in felicità e stupore ?
+Attraverso questa imponente opera vogliamo contribuire in qualche modo a costruire un antidoto, un momento di felicità, di magia da regalare ai bambini: quale modo migliore se non quello di chiudere la bocca del mostro attraverso un semplice click, facendolo zittire per ritrovare la pace perduta esorcizzando così la paura per trasformarla in felicità e stupore ?
 
 <img src="image/dinos.gif" width="130" height="110">
 
