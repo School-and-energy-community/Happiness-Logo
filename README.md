@@ -91,7 +91,7 @@ Video di presentazione del progetto al Campionato Nazionale Siemens 2024
 [Articolo di giornale sul quotidiano "La Nazione"](https://www.lanazione.it/viareggio/cronaca/tyrannosaurus-web-techno-automatismi-sul-carro-di-bertozzi-7ee88b29) 
 
 ### Ringraziamenti
-L'IIS Galilei-Artiglio ringrazia Luca Bertozzi e tutte le maestranze impegnate nella realizzazione del carro che hanno lavorato fianco a fianco dei nostri studenti anche nei momenti concitati a ridosso dell'inizio della manifestazione del Carnevale di Viareggio.
+L'IIS Galilei-Artiglio ringrazia Luca Bertozzi e tutte le maestranze che hanno lavorato fianco a fianco dei nostri studenti anche nei momenti concitati a ridosso dell'inizio della manifestazione del Carnevale di Viareggio.
 
 Un particolare ringraziamento va a tutti i bambini ed i genitori che hanno interagito con la maschera, in particolare a quelli che che per motivi di tempo non sono stati inseriti nel video di presentazione. 
 
